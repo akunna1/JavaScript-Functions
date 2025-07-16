@@ -1,2 +1,17 @@
 # JavaScript-Functions
-Printing arrays and practicing using functions in JS
+
+Practice using JavaScript functions to work with and print arrays.
+
+---
+
+### Features
+
+* Array handling with functions
+* Console output examples
+
+---
+
+### Tech
+
+* JavaScript
+
